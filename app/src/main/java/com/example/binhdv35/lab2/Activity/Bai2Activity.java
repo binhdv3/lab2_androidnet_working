@@ -8,7 +8,7 @@ import android.widget.EditText;
 import android.widget.TextView;
 
 import com.example.binhdv35.lab2.API.APIService;
-import com.example.binhdv35.lab2.AsyncTask_POST;
+import com.example.binhdv35.lab2.AsyncTask.AsyncTask_POST;
 import com.example.binhdv35.lab2.R;
 
 public class Bai2Activity extends AppCompatActivity {

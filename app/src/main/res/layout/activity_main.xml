@@ -22,6 +22,20 @@
         android:layout_marginTop="30sp"
         android:text="Bai 2"
         />
+    <Button
+        android:id="@+id/btn_bai3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30sp"
+        android:text="Bai 3"
+        />
+    <Button
+        android:id="@+id/btn_bai4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30sp"
+        android:text="Bai 4"
+        />
 
 
 </LinearLayout>
